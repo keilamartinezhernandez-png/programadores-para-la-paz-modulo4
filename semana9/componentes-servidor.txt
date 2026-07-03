@@ -1,0 +1,9 @@
+Sistema operativo: Un recurso que permite la ejecucion de aplicaciones, quien permite la interaccion entre la maquina y el usuario
+
+Node.js: es un entorno de ejecución que permite correr JavaScript fuera del navegador, especialmente en servidores.
+
+Aplicación server.js:  Es un servidor pedagogico que nos permite conectarnos a una API comunitaria
+
+Puerto: Un puerto es una compuerta virtual a través de la cual los programas se comunican en una red
+
+Logs: es un archivo o lista que documenta eventos, acciones y mensajes que ocurren en un programa o sistema.
